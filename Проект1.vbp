@@ -1,13 +1,12 @@
 Type=Exe
-Form=C:\Users\1\Desktop\SoftVB\Form1.frm
-Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\Windows\SysWOW64\stdole2.tlb#OLE Automation
-Form=C:\Users\1\Desktop\SoftVB\Новая папка\Form2.frm
-Form=C:\Users\1\Desktop\SoftVB\Новая папка\Form1.frm
+Form=Form1.frm
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\Windows\SysWOW64\stdole2.tlb#OLE Automation
+Form=Новая папка\Form2.frm
+Form=Новая папка\Form1.frm
 IconForm="Form3"
 Startup="Form1"
 HelpFile=""
 ExeName32="Проект1.exe"
-Path32="C:\Users\1\Desktop\SoftVB"
 Command32=""
 Name="Проект1"
 HelpContextID="0"
